@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 ![](https://komarev.com/ghpvc/?username=sslvvb&color=yellow)
 
 <!--
